@@ -1,0 +1,60 @@
+{
+    "annonces": [
+      {
+        "id": "1",
+        "username" :"Walid Hachki",
+        "title": "Location Villa",
+        "description": "description annonce",
+        "image": "./images/appartement1.jpg",
+        "prix": 1500,
+        "ville": "Casablanca",
+        "date" : "01/02/2021",
+        "type_recherche" : "Villa",
+        "typeAnnonce" : "Location",
+        "email" : "walid@gmail.com",
+        "phone" : "+212612345678"
+      },
+      {
+        "id": "2",
+        "username" :"Walid Hachki",
+        "title": "Vente appartement",
+        "description": "Un bel Studio meublé très propre sécurisé proche de toutes commodités 1chambre 1salon ascenseur garage avec télécommande concierge/ pas loin rond point d'Europe et station d essence afriquia prix 4500dh plus 200dh syndic/ prix fixe et non négociable merci d'avance.",
+        "image": "/images/product1.jpg",
+        "prix": 150000,
+        "ville": "Casablanca",
+        "date" : "01/02/2021",
+        "type_recherche" : "Appartement",
+        "typeAnnonce" : "Vente",
+        "email" : "walid@gmail.com",
+        "phone" : "+212612345678"
+      },
+      {
+        "id": "3",
+        "username" :"Walid Hachki",
+        "title": "Location Maison",
+        "description": "description annonce",
+        "image": "/images/product2.jpg",
+        "prix": 15000,
+        "ville": "Casablanca",
+        "date" : "01/02/2021",
+        "type_recherche" : "Maison",
+        "typeAnnonce" : "Location",
+        "email" : "walid@gmail.com",
+        "phone" : "+212612345678"
+      },
+      {
+        "id": "4",
+        "username" :"Walid Hachki",
+        "title": "Vente Villa",
+        "description": "description annonce",
+        "image": "/images/product2.jpg",
+        "prix": 15000,
+        "ville": "Rabat",
+        "date" : "01/02/2021",
+        "type_recherche" : "Villa",
+        "typeAnnonce" : "Vente",
+        "email" : "walid@gmail.com",
+        "phone" : "+212612345678"
+      }
+    ]
+  }
